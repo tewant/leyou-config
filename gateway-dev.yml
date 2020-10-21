@@ -5,7 +5,7 @@ spring:
     name: api-gateway
   rabbitmq:
     virtual-host: /leyou
-    username: /guest
+    username: guest
     password: guest
     host: 127.0.0.1
 eureka:
